@@ -7,8 +7,8 @@ Aqui estamos usando Store de Ngrx, manejo de estados y efectos.
 
 # desarrollo
 
-Este proyecto contiene 
-registro de monedas
-auth basico
-prueba de estado del store
-lista de usuarios con efectos del store
+Este proyecto contiene :
+- registro de monedas
+- auth basico
+- prueba de estado del store
+- lista de usuarios con efectos del store
