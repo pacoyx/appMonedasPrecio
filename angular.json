@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "appblockchain"
+  "defaultProject": "appblockchain",
+  "cli": {
+    "analytics": false
+  }
 }

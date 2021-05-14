@@ -1,0 +1,20 @@
+<p>rickandmortylist works!</p>
+
+{{cargando}}
+
+{{error}}
+
+{{personajesRick | json}}
+
+<!-- <div *ngFor="let movie of movies$ | async">
+  {{ movie.name }}
+</div> -->
+
+
+<div class="alert alert-info text-center" role="alert" *ngIf="cargando">
+  <h4 class="alert-heading">Cargando</h4>
+  <p>
+    <i class="fa fa-sync fa-spin fa-2x"></i>
+  </p>
+  <p class="mb-0"></p>
+</div>

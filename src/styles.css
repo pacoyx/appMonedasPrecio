@@ -1,1 +1,46 @@
 /* You can add global styles to this file, and also import other style files */
+/* CSS HEX */
+--persian-blue: #072ac8ff;
+--dodger-blue: #1e96fcff;
+--uranian-blue: #a2d6f9ff;
+--cadmium-yellow: #fcf300ff;
+--mikado-yellow: #ffc600ff;
+
+/* CSS HSL */
+--persian-blue: hsla(229, 93%, 41%, 1);
+--dodger-blue: hsla(208, 97%, 55%, 1);
+--uranian-blue: hsla(204, 88%, 81%, 1);
+--cadmium-yellow: hsla(58, 100%, 49%, 1);
+--mikado-yellow: hsla(47, 100%, 50%, 1);
+
+/* SCSS HEX */
+$persian-blue: #072ac8ff;
+$dodger-blue: #1e96fcff;
+$uranian-blue: #a2d6f9ff;
+$cadmium-yellow: #fcf300ff;
+$mikado-yellow: #ffc600ff;
+
+/* SCSS HSL */
+$persian-blue: hsla(229, 93%, 41%, 1);
+$dodger-blue: hsla(208, 97%, 55%, 1);
+$uranian-blue: hsla(204, 88%, 81%, 1);
+$cadmium-yellow: hsla(58, 100%, 49%, 1);
+$mikado-yellow: hsla(47, 100%, 50%, 1);
+
+/* SCSS RGB */
+$persian-blue: rgba(7, 42, 200, 1);
+$dodger-blue: rgba(30, 150, 252, 1);
+$uranian-blue: rgba(162, 214, 249, 1);
+$cadmium-yellow: rgba(252, 243, 0, 1);
+$mikado-yellow: rgba(255, 198, 0, 1);
+
+/* SCSS Gradient */
+$gradient-top: linear-gradient(0deg, #072ac8ff, #1e96fcff, #a2d6f9ff, #fcf300ff, #ffc600ff);
+$gradient-right: linear-gradient(90deg, #072ac8ff, #1e96fcff, #a2d6f9ff, #fcf300ff, #ffc600ff);
+$gradient-bottom: linear-gradient(180deg, #072ac8ff, #1e96fcff, #a2d6f9ff, #fcf300ff, #ffc600ff);
+$gradient-left: linear-gradient(270deg, #072ac8ff, #1e96fcff, #a2d6f9ff, #fcf300ff, #ffc600ff);
+$gradient-top-right: linear-gradient(45deg, #072ac8ff, #1e96fcff, #a2d6f9ff, #fcf300ff, #ffc600ff);
+$gradient-bottom-right: linear-gradient(135deg, #072ac8ff, #1e96fcff, #a2d6f9ff, #fcf300ff, #ffc600ff);
+$gradient-top-left: linear-gradient(225deg, #072ac8ff, #1e96fcff, #a2d6f9ff, #fcf300ff, #ffc600ff);
+$gradient-bottom-left: linear-gradient(315deg, #072ac8ff, #1e96fcff, #a2d6f9ff, #fcf300ff, #ffc600ff);
+$gradient-radial: radial-gradient(#072ac8ff, #1e96fcff, #a2d6f9ff, #fcf300ff, #ffc600ff);
